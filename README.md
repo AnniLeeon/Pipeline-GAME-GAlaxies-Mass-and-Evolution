@@ -19,6 +19,6 @@ El código realiza de forma secuencial los siguientes procesos físicos:
 ## Entregables 
 - GAME.ipynb: Notebook reproducible paso a paso listo para Google Colab.
 - catalogo_final_entregables.csv: El catálogo físico resultante con los parámetros medidos de las 100 galaxias.
-- entregables.png: Gráfico científico de tres paneles que abarca el Diagrama BPT, Histograma de EW(Halpha) y la relación Masa-Metalicidad.
+- graficos.png: Gráfico científico de tres paneles que abarca el Diagrama BPT, Histograma de EW(Halpha) y la relación Masa-Metalicidad.
 
 
